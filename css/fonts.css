@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'Fregat';
+  src: url('../fonts/fregat/Fregat-Italic.eot');
+  src: url('../fonts/fregat/Fregat-Italic.ttf') format('truetype'),
+       url('../fonts/fregat/Fregat-Italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Fregat';
+  src: url('../fonts/fregat/Fregat.eot');
+  src: url('../fonts/fregat/Fregat.ttf') format('truetype'),
+       url('../fonts/fregat/Fregat.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fregat';
+  src: url('../fonts/fregat/Fregat-BoldItalic.eot');
+  src: url('../fonts/fregat/Fregat-BoldItalic.ttf') format('truetype'),
+       url('../fonts/fregat/Fregat-BoldItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Fregat';
+  src: url('../fonts/fregat/Fregat-Bold.eot');
+  src: url('../fonts/fregat/Fregat-Bold.ttf') format('truetype'),
+       url('../fonts/fregat/Fregat-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+
+
